@@ -1,0 +1,20 @@
+body{
+        background: wheat;
+}
+table {
+	width: 100%;
+	text-align: center;
+	border-collapse: collapse;
+	font-size: 100%;
+	padding: 0%;
+}
+th,
+td {
+	border: goldenrod 3px solid;
+	padding: 5px 10px;
+}
+li{
+    text-align: justify;
+    font-size: 22px;
+    padding: 10px;
+}
